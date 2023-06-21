@@ -1,2 +1,2 @@
-# DADS5001_google_play_application_info
-Googlw play application installation
+# Google play store application installation
+
