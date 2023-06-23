@@ -1,5 +1,7 @@
 # Google play store application installation
 ปัจจุบันมี Application เกิดขึ้นมากมาย โดยมีแหล่งสำหรับดาวน์โหลดหลัก คือ Play Store สำหรับระบ Android และ App Store สำหรับระบบ IOS โดย Mini-Project นี้เราจะโฟกัสที่ Application ใน Google Play store 
+โดยข้อมูล Application มากกว่า 10,000 Applications  สามารถจัดกลุ่มได้ตามประเภท (Category)
+ซึ่งจากกราฟด้านล่างเราจะเห็นได้ว่า Category ที่มีจำนวน Application เยอะที่สุดคือ Family มีจำนวนสูงถึง 191 Applications ซึ่งนับเป็นสัดส่วน --- %ของจำนวน Application ทั้งหมด 
 
 ![graph_1](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/1d79a02d-838c-454a-aaec-324acb80c7d0)
 
