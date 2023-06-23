@@ -1,5 +1,5 @@
 # Google play store application installation
-
+ปัจจุบันมี Application เกิดขึ้นมากมาย โดยมีแหล่งสำหรับดาวน์โหลดหลัก คือ Play Store สำหรับระบ Android และ App Store สำหรับระบบ IOS โดย Mini-Project นี้เราจะโฟกัสที่ Application ใน Google Play store 
 
 ![graph_1](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/1d79a02d-838c-454a-aaec-324acb80c7d0)
 
