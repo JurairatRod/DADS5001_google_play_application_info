@@ -12,8 +12,11 @@
 (โดยจำนวนการดาว์นโหลดนั้นมากจากการประมาณการจำนวนการดาว์นโหลดของแต่ละ Application)
 
 จะเห็นว่า Application ที่มียอดรวมการดาว์นโหลดมากที่สุดจะเป็น Category เกมส์ (35,000 M) ในขณะที่ Application ใน Category Family ที่มีจำนวน Application มากที่สุดกลับมียอดรวมดาว์นโหลดอยู่ในลำดับที่ 5 (10,000 MB)
+
 ![graph_2.0](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/6b5a27aa-f440-4d03-85e2-6f84269e0f32)
+
 ตารางนี้เป็นการแสดง 10 Applications ที่มียอดการดาว์นโหลดสูงที่สุด
+
 ![table_20](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/bfe42279-c96f-4bf9-be28-6891cfb71536)
 
 
