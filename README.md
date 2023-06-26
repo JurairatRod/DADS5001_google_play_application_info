@@ -21,7 +21,8 @@
 
 
 โดยหากเราโฟกัสไปที่ Application ที่มีจำนวนการดาวน์โหลดมากกว่า 1 ล้านครั้งขึ้นไป
-จากกราฟด้านล่างจะเห็นว่าถึงแม้ใน Google Playstore จะมี Application ที่อยู่ใน Category  Family มากที่สุด แต่ Application ที่มีจำนวนการดาวน์โหลดที่มากกว่า 1 ล้านครั้งขึ้นไปเป็น Category Games ที่มีจำนวน Application รองลงมา มีจำนวนการดาวน์โหลดขั้น 1,000,000,000 มากถึง 6  Application  โดย Category  Family มีเพียง 1  Application 
+จากกราฟด้านล่างจะเห็นว่าถึงแม้ใน Google Playstore จะมี Application ที่อยู่ใน Category  Family มากที่สุด แต่ Application ที่มีจำนวนการดาวน์โหลดที่มากกว่า 1 ล้านครั้งขึ้นไปเป็น Category Games ที่มีจำนวนมากที่สุด 
+โดยหากโฟกัสที่ Application ที่มีจำนวนการดาวน์โหลด 1,000,000,000 ขึ้นไป Category Game มีมากถึง 6  Application  โดย Category  Family มีเพียง 1  Application 
 
 ------กราฟ2-----
   ### Application ที่ฟรีและ Apllication ที่เสียเงิน
