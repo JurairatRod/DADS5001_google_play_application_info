@@ -7,8 +7,18 @@
 
 ![graph_1](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/1b213687-bb08-474f-9b9d-20323fe4b546)
 
-จากนั้นเรามาดูกันว่าจำนวนการดาวน์โหลดของ Application ใรแต่ละ Category มีแนวโน้มเป็นอย่างไร ซึ่งเราจะโฟกัสไปที่จำนวนการดาวน์โหลดที่ไม่ต่ำกว่า 1 ล้านครั้ง
-จากกราฟด้านล่างจะเห็นว่าถึงแม้ใน Google Playstore จะมี Application ที่อยู่ใน Category  Family มากที่สุด แต่จำนวนการดาวน์โหลดนั้น Category Games ที่มีจำนวน Application รองลงมา มีจำนวนการดาวน์โหลดขั้น 1,000,000,000 มากถึง 6  Application  โดย Category  Family มีเพียง 1  Application 
+จากนั้นเรามาดูกันว่าจำนวนการดาวน์โหลดของ Application ในแต่ละ Category มีแนวโน้มเป็นอย่างไร 
+
+(โดยจำนวนการดาว์นโหลดนั้นมากจากการประมาณการจำนวนการดาว์นโหลดของแต่ละ Application)
+
+จะเห็นว่า Application ที่มียอดรวมการดาว์นโหลดมากที่สุดจะเป็น Category เกมส์ (35,000 M) ในขณะที่ Application ใน Category Family ที่มีจำนวน Application มากที่สุดกลับมียอดรวมดาว์นโหลดอยู่ในลำดับที่ 5 (10,000 MB)
+![graph_2.0](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/6b5a27aa-f440-4d03-85e2-6f84269e0f32)
+ตารางนี้เป็นการแสดง 10 Applications ที่มียอดการดาว์นโหลดสูงที่สุด
+![table_20](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/bfe42279-c96f-4bf9-be28-6891cfb71536)
+
+
+โดยหากเราโฟกัสไปที่ Application ที่มีจำนวนการดาวน์โหลดมากกว่า 1 ล้านครั้งขึ้นไป
+จากกราฟด้านล่างจะเห็นว่าถึงแม้ใน Google Playstore จะมี Application ที่อยู่ใน Category  Family มากที่สุด แต่ Application ที่มีจำนวนการดาวน์โหลดที่มากกว่า 1 ล้านครั้งขึ้นไปเป็น Category Games ที่มีจำนวน Application รองลงมา มีจำนวนการดาวน์โหลดขั้น 1,000,000,000 มากถึง 6  Application  โดย Category  Family มีเพียง 1  Application 
 
 ------กราฟ2-----
   ### Application ที่ฟรีและ Apllication ที่เสียเงิน
