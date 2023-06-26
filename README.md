@@ -1,11 +1,22 @@
 # Google play store application installation
   ปัจจุบันมี Application เกิดขึ้นมากมาย โดยมีแหล่งสำหรับให้ดาวน์โหลดหลักคือ Play Store สำหรับระบบ Android และ Apple Store สำหรับระบบ IOS 
-  โดย Mini-Project นี้เราจะโฟกัสที่ Application ใน Google Play store 
-  
+  โดย Mini-Project นี้เราจะโฟกัสที่ Application ใน Google Play store ตามหัวข้อต่าง ๆ ดังนี้
+  ###Applications แบ่งตาม Category ต่าง ๆ ใน Google Play Store 
   ข้อมูล Application มากกว่า 10,000 Applications  สามารถจัดกลุ่มได้ด้วยประเภท (Category) ของ Application ที่ผู้ผลิต application ได้ระบุไว้
 จากกราฟด้านล่างเราจะเห็นได้ว่า Category ที่มีจำนวน Application เยอะที่สุดคือ Family ซึ่งมีจำนวนสูงถึง 1,972 Applications ซึ่งนับเป็นสัดส่วน 18% ของจำนวน Application ทั้งหมด 
 
 ![graph_1](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/1b213687-bb08-474f-9b9d-20323fe4b546)
+
+จากนั้นเรามาดูกันว่าจำนวนการดาวน์โหลดของ Application ใรแต่ละ Category มีแนวโน้มเป็นอย่างไร ซึ่งเราจะโฟกัสไปที่จำนวนการดาวน์โหลดที่ไม่ต่ำกว่า 1 ล้านครั้ง
+จากกราฟด้านล่างจะเห็นว่าถึงแม้ใน Google Playstore จะมี Application ที่อยู่ใน Category  Family มากที่สุด แต่จำนวนการดาวน์โหลดนั้น Category Games ที่มีจำนวน Application รองลงมา มีจำนวนการดาวน์โหลดขั้น 1,000,000,000 มากถึง 6  Application  โดย Category  Family มีเพียง 1  Application 
+
+------กราฟ2-----
+
+จุดที่สำคัญอีกจุดหนึ่งของการทำ Application คือการทำ Application ที่ฟรี และ Application ที่เสียเงิน
+จากข้อมูลเราสามารถเห็นจำนวนที่แตกต่างระหว่าง Application ที่ฟรีและ application ที่เสียเงิน หากแบ่งตามจำนวนครั้งที่ดาวน์โหลด จะเห็นได้ว่าจำนวน Application ที่มีการดาวน์โหลดมากกว่า 50 ล้านครั้ง ล้วนเป็น Application ที่ฟรีทั้งหมด
+
+-----กราฟ3-----
+
 
 
  ในส่วนของ Application ที่เสียเงิน (Paid Application) เราสามารถเห็นจำนวน Paid Application ทังหมด 800 Applications จากกราฟจะเห็นได้ว่า Category Family มีจำนวน Application ที่เสียเงินสูงสุดเป็นจำนวน 191 Applications แต่มูลค่าโดยรวมของ Category Family นั้น เป็นจำนวน $2,087,113.49 ซึ่งน้อยกว่า Category Lifestyle ที่มีเพียง 19 Applications แต่มูลค่าโดยรวมของ Category นั้นสูงถึง $7,711,150.76  เนื่องจากราคาเฉลี่ยของ Applications สูงถึง $124.26 ซึ่งมากกว่าราคาเฉลี่ยของ Application ใน Category family ($12.75) ถึง 89.7% โดยประมาณ
