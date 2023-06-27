@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137283700/51e12a45-3693-4735-b8a9-eadc84a28f72"/>
 </p>
+
 # Google Play Store Application Installation
   ในยุคที่เทคโนโลยีมีบทบาทสำคัญในชีวิตประจำวันของมนุษย์ สมาร์ทโฟนเป็นอุปกรณ์ที่ได้รับความนิยมและใช้งานกันอย่างแพร่หลาย
   เป็นส่วนสำคัญที่สร้างประสบการณ์และการใช้ชีวิตที่สะดวกสบายขึ้น อีกทั้งยังเป็นช่องทางการหารายได้สำหรับผู้ที่ผลิตแอปพลิเคชัน
