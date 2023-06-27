@@ -44,9 +44,9 @@
   ### แอปพลิเคชันที่ฟรีและ แอปพลิเคชันที่เสียเงิน
 แอปพลิเคชันที่เปิดให้ดาวน์โหลดใน Google Play Store นั้น มีทั้งแอปพลิเคชันที่ฟรี และ แอปพลิเคชันที่เสียเงิน 
 จากข้อมูลเราสามารถเห็นจำนวนที่แตกต่างระหว่างแอปพลิเคชันที่ฟรีและ แอปพลิเคชันที่เสียเงิน หากแบ่งตามจำนวนครั้งที่ดาวน์โหลด จะเห็นได้ว่าจำนวน แอปพลิเคชัน ที่มีการดาวน์โหลดมากกว่า 50 ล้านครั้ง ล้วนเป็น แอปพลิเคชัน ที่ฟรีทั้งหมด
-
-
-![Picture3](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137284926/bbabdd6b-9c2c-479e-872f-e80d34329352)
+<p align="center">
+  <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137284926/bbabdd6b-9c2c-479e-872f-e80d34329352"/>
+</p>
 
 ![download](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137284926/236e9a07-927b-459c-94b0-d61db99b74ac)
 
@@ -54,12 +54,16 @@
    ### มูลค่าของแอปพลิเคชันที่เสียเงิน
 ในส่วนของแอปพลิเคชันที่เสียเงิน (Paid Application) เราสามารถเห็นจำนวน Paid แอปพลิเคชัน ทังหมด 800 แอปพลิเคชัน 
 จากกราฟจะเห็นได้ว่า Category Family มีจำนวนแอปพลิเคชันที่เสียเงินสูงสุดถึง 191 แอปพลิเคชัน แต่มูลค่าโดยรวมของ Category Family นั้น เป็นจำนวน $2,087,113.49 ซึ่งน้อยกว่า Category Lifestyle ที่มีเพียง 19 แอปพลิเคชัน แต่มูลค่าโดยรวมของ Category นั้นสูงถึง $7,711,150.76 เนื่องจากราคาเฉลี่ยของ แอปพลิเคชัน สูงถึง $124.26 ซึ่งมากกว่าราคาเฉลี่ยของ แอปพลิเคชัน ใน Category family ($12.75) ถึง 89.7% โดยประมาณ
-
+<p align="center">
+  <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137283700/c0c973dd-5407-4cc9-8e24-57adc8821238"/>
+</p>
   
-![1687509950000](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137283700/c0c973dd-5407-4cc9-8e24-57adc8821238)
 ![graph_5](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/77e0312b-a245-47b5-bc23-e6177b2a2161)
 
-ทั้งนี้ Category ของ Application ที่มีมูลค่าเฉลี่ยโดยรวมมากกว่า $500,000 มีเพียง 6 Category คือ Category LIFESTYLE ($7,711,150.76) , FAMILY ($2,087,113.49) , FINANCE ($1,862,975.26) , PHOTOGRAPHY ($1,103,278.30) , GAME ($879,956.44) และ EDUCATION ($675,745.00) ตามลำดับจากมูลค่าเฉลี่ยโดยรวมจากมากไปน้อย
 
-![table_6](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/f26e08cb-f2d9-4d3c-94d0-de0f27348bbc)
+ทั้งนี้ Category ของ Application ที่มีมูลค่าเฉลี่ยโดยรวมมากกว่า $500,000 มีเพียง 6 Category คือ Category LIFESTYLE ($7,711,150.76) , FAMILY ($2,087,113.49) , FINANCE ($1,862,975.26) , PHOTOGRAPHY ($1,103,278.30) , GAME ($879,956.44) และ EDUCATION ($675,745.00) ตามลำดับจากมูลค่าเฉลี่ยโดยรวมจากมากไปน้อย
+<p align="center">
+  <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/f26e08cb-f2d9-4d3c-94d0-de0f27348bbc"/>
+</p>
+
 ![graph_6](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/7a373763-ac56-481b-8235-414d2e5aed0e)
