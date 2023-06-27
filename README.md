@@ -29,14 +29,17 @@
 ![graph_2.0](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/6b5a27aa-f440-4d03-85e2-6f84269e0f32)
 
 ตารางแสดง 10 Category ที่มียอดการดาว์นโหลดสูงที่สุดโดยเรียงจากมากไปน้อย
-
-![table_20](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/bfe42279-c96f-4bf9-be28-6891cfb71536)
+<p align="center">
+  <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/bfe42279-c96f-4bf9-be28-6891cfb71536"/>
+</p>
 
 และเมื่อเราโฟกัสไปที่แอปพลิเคชันที่มีจำนวนการดาวน์โหลดมากกว่า 1 ล้านครั้งขึ้นไป 
+
 จากกราฟด้านล่างจะเห็นว่าถึงแม้ใน Google Playstore จะมี แอปพลิเคชัน ที่อยู่ใน Category Family มากที่สุด แต่ แอปพลิเคชัน ที่มีจำนวนการดาวน์โหลดที่มากกว่า 1 ล้านครั้งขึ้นไปเป็น Category Games ที่มีจำนวนมากที่สุด โดยหากโฟกัสที่ แอปพลิเคชัน ที่มีจำนวนการดาวน์โหลด 1,000,000,000 ขึ้นไป Category Game มีมากถึง 6 แอปพลิเคชัน โดย Category Family มีเพียง 1 แอปพลิเคชัน
 
-
-![Picture4](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137284926/9cdac9c9-17f3-4e2d-b9af-9deaf9344278)
+<p align="center">
+  <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137284926/9cdac9c9-17f3-4e2d-b9af-9deaf9344278"/>
+</p>
 
   ### แอปพลิเคชันที่ฟรีและ แอปพลิเคชันที่เสียเงิน
 แอปพลิเคชันที่เปิดให้ดาวน์โหลดใน Google Play Store นั้น มีทั้งแอปพลิเคชันที่ฟรี และ แอปพลิเคชันที่เสียเงิน 
