@@ -1,4 +1,7 @@
-# Google play store application installation
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
+# Google Play Store Application Installation
   ในยุคที่เทคโนโลยีมีบทบาทสำคัญในชีวิตประจำวันของมนุษย์ สมาร์ทโฟนเป็นอุปกรณ์ที่ได้รับความนิยมและใช้งานกันอย่างแพร่หลาย
   เป็นส่วนสำคัญที่สร้างประสบการณ์และการใช้ชีวิตที่สะดวกสบายขึ้น อีกทั้งยังเป็นช่องทางการหารายได้สำหรับผู้ที่ผลิตแอปพลิเคชัน
   ทั้งในช่องทางการขายแอปพลิเคชัน การรับโฆษณาในแอป หรือการขายของในแอป ทำให้ปัจจุบันมี Application เกิดขึ้นมากมาย
