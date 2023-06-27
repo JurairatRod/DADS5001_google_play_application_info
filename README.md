@@ -30,6 +30,7 @@
 จุดที่สำคัญอีกจุดหนึ่งของการทำ Application คือการทำ Application ที่ฟรี และ Application ที่เสียเงิน
 จากข้อมูลเราสามารถเห็นจำนวนที่แตกต่างระหว่าง Application ที่ฟรีและ application ที่เสียเงิน หากแบ่งตามจำนวนครั้งที่ดาวน์โหลด จะเห็นได้ว่าจำนวน Application ที่มีการดาวน์โหลดมากกว่า 50 ล้านครั้ง ล้วนเป็น Application ที่ฟรีทั้งหมด
 
+![Picture3](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137284926/bbabdd6b-9c2c-479e-872f-e80d34329352)
 -----กราฟ3-----
 
 
