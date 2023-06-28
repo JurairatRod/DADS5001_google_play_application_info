@@ -61,7 +61,7 @@
 ![graph_5](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/77e0312b-a245-47b5-bc23-e6177b2a2161)
 
 
-ทั้งนี้ Category ของ Application ที่มีมูลค่าเฉลี่ยโดยรวมมากกว่า $500,000 มีเพียง 6 Category คือ Category LIFESTYLE ($7,711,150.76) , FAMILY ($2,087,113.49) , FINANCE ($1,862,975.26) , PHOTOGRAPHY ($1,103,278.30) , GAME ($879,956.44) และ EDUCATION ($675,745.00) ตามลำดับจากมูลค่าเฉลี่ยโดยรวมจากมากไปน้อย
+ทั้งนี้ Category ของ Application ที่มีมูลค่าเฉลี่ยโดยรวมมากกว่า $500,000 มีเพียง 6 Category คือ Category LIFESTYLE ($7,711,150) , FAMILY ($2,087,113) , FINANCE ($1,862,975) , PHOTOGRAPHY ($1,103,278) , GAME ($879,956) และ EDUCATION ($675,745) ตามลำดับจากมูลค่าเฉลี่ยโดยรวมจากมากไปน้อย
 <p align="center">
   <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/f26e08cb-f2d9-4d3c-94d0-de0f27348bbc"/>
 </p>
