@@ -78,12 +78,12 @@
   <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137283700/c0c973dd-5407-4cc9-8e24-57adc8821238"/>
 </p>
 <p align="center">
-  กราฟที่ 4 Number of applications categorized by installation and type (Free or Paid)
+  กราฟที่ 4 Amount of paid application per category
 </p>  
 
 ![graph_5](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/77e0312b-a245-47b5-bc23-e6177b2a2161)
 <p align="center">
-  กราฟที่ 5 Number of applications categorized by installation and type (Free or Paid)
+  กราฟที่ 5 Paid application with average net value, Price, and installation
 </p>
 
 ทั้งนี้ Category ของ Application ที่มีมูลค่าเฉลี่ยโดยรวมมากกว่า $500,000 มีเพียง 6 Category คือ Category LIFESTYLE ($7,711,150) , FAMILY ($2,087,113) , FINANCE ($1,862,975) , PHOTOGRAPHY ($1,103,278) , GAME ($879,956) และ EDUCATION ($675,745) ตามลำดับจากมูลค่าเฉลี่ยโดยรวมจากมากไปน้อย
@@ -91,10 +91,10 @@
   <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/f26e08cb-f2d9-4d3c-94d0-de0f27348bbc"/>
 </p>
 <p align="center">
-  ตารางที่ 4 Number of applications categorized by installation and type (Free or Paid)
+  ตารางที่ 4 Paid applications with an average 500K net value and up
 </p>
 
 ![graph_6](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/7a373763-ac56-481b-8235-414d2e5aed0e)
 <p align="center">
-  กราฟที่ 6 Number of applications categorized by installation and type (Free or Paid)
+  กราฟที่ 6 Paid applications with an average 500K net value and up
 </p>
