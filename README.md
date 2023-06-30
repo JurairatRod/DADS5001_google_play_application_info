@@ -37,7 +37,7 @@
   กราฟที่ 2 Installation of each category
 </p>
 
-ตารางที่ 1 แสดง 10 Category ที่มียอดการดาว์นโหลดสูงที่สุดโดยเรียงจากมากไปน้อย
+ตารางที่ 1 แสดง 10 ประเภทแอปพลิเคชันที่มียอดการดาว์นโหลดสูงที่สุดโดยเรียงจากมากไปน้อย
 <p align="center">
   <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/bfe42279-c96f-4bf9-be28-6891cfb71536"/>
 </p>
@@ -62,9 +62,14 @@
 <p align="center">
   <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137284926/bbabdd6b-9c2c-479e-872f-e80d34329352"/>
 </p>
+<p align="center">
+  ตารางที่ 3 Number of applications categorized by installation and type (Free or Paid)
+</p>
 
 ![download](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137284926/236e9a07-927b-459c-94b0-d61db99b74ac)
-
+<p align="center">
+  กราฟที่ 3 Number of applications categorized by installation and type (Free or Paid)
+</p>
 
    ### มูลค่าของแอปพลิเคชันที่เสียเงิน
 ในส่วนของแอปพลิเคชันที่เสียเงิน (Paid Application) เราสามารถเห็นจำนวน Paid แอปพลิเคชัน ทั้งหมด 800 แอปพลิเคชัน 
@@ -72,13 +77,24 @@
 <p align="center">
   <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137283700/c0c973dd-5407-4cc9-8e24-57adc8821238"/>
 </p>
-  
-![graph_5](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/77e0312b-a245-47b5-bc23-e6177b2a2161)
+<p align="center">
+  กราฟที่ 4 Number of applications categorized by installation and type (Free or Paid)
+</p>  
 
+![graph_5](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/77e0312b-a245-47b5-bc23-e6177b2a2161)
+<p align="center">
+  กราฟที่ 5 Number of applications categorized by installation and type (Free or Paid)
+</p>
 
 ทั้งนี้ Category ของ Application ที่มีมูลค่าเฉลี่ยโดยรวมมากกว่า $500,000 มีเพียง 6 Category คือ Category LIFESTYLE ($7,711,150) , FAMILY ($2,087,113) , FINANCE ($1,862,975) , PHOTOGRAPHY ($1,103,278) , GAME ($879,956) และ EDUCATION ($675,745) ตามลำดับจากมูลค่าเฉลี่ยโดยรวมจากมากไปน้อย
 <p align="center">
   <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/f26e08cb-f2d9-4d3c-94d0-de0f27348bbc"/>
 </p>
+<p align="center">
+  ตารางที่ 4 Number of applications categorized by installation and type (Free or Paid)
+</p>
 
 ![graph_6](https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/7a373763-ac56-481b-8235-414d2e5aed0e)
+<p align="center">
+  กราฟที่ 6 Number of applications categorized by installation and type (Free or Paid)
+</p>
