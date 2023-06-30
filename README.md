@@ -73,7 +73,7 @@
 
    ### มูลค่าของแอปพลิเคชันที่เสียเงิน
 ในส่วนของแอปพลิเคชันที่เสียเงิน (Paid Application) เราสามารถเห็นจำนวน Paid แอปพลิเคชัน ทั้งหมด 800 แอปพลิเคชัน 
-จากกราฟจะเห็นได้ว่า Category Family มีจำนวนแอปพลิเคชันที่เสียเงินสูงสุดถึง 191 แอปพลิเคชัน แต่มูลค่าโดยรวมของ Category Family นั้น เป็นจำนวน $2,087,113 ซึ่งน้อยกว่า Category Lifestyle ที่มีเพียง 19 แอปพลิเคชัน แต่มูลค่าโดยรวมของ Category นั้นสูงถึง $7,711,150 เนื่องจากราคาเฉลี่ยของ แอปพลิเคชัน สูงถึง $124.26 ซึ่งมากกว่าราคาเฉลี่ยของ แอปพลิเคชัน ใน Category family ($12.75) ถึง 89.7% โดยประมาณ
+จากกราฟที่ 4 จะเห็นได้ว่า Category Family มีจำนวนแอปพลิเคชันที่เสียเงินสูงสุดถึง 191 แอปพลิเคชัน แต่จากกราฟที่ 5 มูลค่าโดยรวมของ Category Family นั้น เป็นจำนวน $2,087,113 ซึ่งน้อยกว่า Category Lifestyle ที่มีเพียง 19 แอปพลิเคชัน แต่มูลค่าโดยรวมของ Category นั้นสูงถึง $7,711,150 เนื่องจากราคาเฉลี่ยของ แอปพลิเคชัน สูงถึง $124.26 ซึ่งมากกว่าราคาเฉลี่ยของ แอปพลิเคชัน ใน Category family ($12.75) ถึง 89.7% โดยประมาณ
 <p align="center">
   <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137283700/c0c973dd-5407-4cc9-8e24-57adc8821238"/>
 </p>
@@ -86,7 +86,7 @@
   กราฟที่ 5 Paid application with average net value, Price, and installation
 </p>
 
-ทั้งนี้ Category ของ Application ที่มีมูลค่าเฉลี่ยโดยรวมมากกว่า $500,000 มีเพียง 6 Category คือ Category LIFESTYLE ($7,711,150) , FAMILY ($2,087,113) , FINANCE ($1,862,975) , PHOTOGRAPHY ($1,103,278) , GAME ($879,956) และ EDUCATION ($675,745) ตามลำดับจากมูลค่าเฉลี่ยโดยรวมจากมากไปน้อย
+ทั้งนี้จากตารางที่ 4 และกราฟที่ 6 Category ของ Application ที่มีมูลค่าเฉลี่ยโดยรวมมากกว่า $500,000 มีเพียง 6 Category คือ Category LIFESTYLE ($7,711,150) , FAMILY ($2,087,113) , FINANCE ($1,862,975) , PHOTOGRAPHY ($1,103,278) , GAME ($879,956) และ EDUCATION ($675,745) ตามลำดับจากมูลค่าเฉลี่ยโดยรวมจากมากไปน้อย
 <p align="center">
   <img src="https://github.com/JurairatRod/DADS5001_google_play_store_application_info/assets/137280369/f26e08cb-f2d9-4d3c-94d0-de0f27348bbc"/>
 </p>
